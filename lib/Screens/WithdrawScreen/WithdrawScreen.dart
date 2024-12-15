@@ -20,7 +20,7 @@ class Withdrawscreen extends StatelessWidget {
           MyEarningAppBar(
             name: "Withdraw Now",
           ),
-          SpacerH(16.h),
+          SpacerH(51.h),
           Expanded(
               child: Stack(
             children: [
@@ -32,14 +32,39 @@ class Withdrawscreen extends StatelessWidget {
                   child: SingleChildScrollView(
                     child: Column(
                       children: [
-                        appText.primaryText(text: "Main Balance"),
-                        appText.primaryText(text: "₹ 2,8754"),
+                        appText.primaryText(text: "Main Balance",
+                        fontSize: 16.sp,
+                        fontWeight: FontWeight.w600,
+                        color: Color(0xFF21212180)),
+
+                        SpacerH(2.h),
+
+                        appText.primaryText(text: "₹ 2,8754",
+                        fontSize: 34.sp,
+                        fontWeight: FontWeight.w700,
+                        color: Color(0xFF212121)),
+
+                        SpacerH(12.h),
                         EarningAnalyticsCard(),
-                        appText.primaryText(text: "Enter Amount"),
-                        tBox(), // use textfield instead fo tbox
-                        appText.primaryText(
-                            text:
-                                "Amount will be credited to your account within one business day."),
+                        SpacerH(31.h),
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            appText.primaryText(text: "Enter Amount",
+                            fontSize: 14.sp,
+                            fontWeight: FontWeight.w600,
+                            color: Color(0xFF1B1B1B)),
+                            SpacerH(10.h),
+                            tBox(), // use textfield instead fo tbox
+                            SpacerH(8.h),
+                            appText.primaryText(
+                                text:"Amount will be credited to your account within one business day.",
+                                fontSize: 10.sp,
+                                fontWeight: FontWeight.w400,
+                                color: Color(0xFFBEA216)),
+                          ],
+                        ),
+                        SpacerH(48.h),
                         EarningInfoCard()
                       ],
                     ),

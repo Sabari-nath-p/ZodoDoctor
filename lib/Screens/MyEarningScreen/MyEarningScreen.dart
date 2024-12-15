@@ -21,23 +21,38 @@ class MyEarningScreen extends StatelessWidget {
           MyEarningAppBar(
             name: "My Earnings",
           ),
-          SpacerH(16.h),
+          SpacerH(51.h),
           Expanded(
               child: SingleChildScrollView(
             child: Column(
               children: [
-                appText.primaryText(text: "Main Balance"),
-                appText.primaryText(text: "₹ 2,8754"),
+                appText.primaryText(text: "Main Balance",
+                fontSize: 16.sp,
+                fontWeight: FontWeight.w600,
+                color: Color(0xFF21212180)),
+
+                SpacerH(2.h),
+
+                appText.primaryText(text: "₹ 2,8754",
+                fontSize: 34.sp,
+                fontWeight: FontWeight.w700,
+                color: Color(0xFF212121)),
+
+                SpacerH(12.h),
+
                 EarningAnalyticsCard(),
                 EarningBankCard(),
                 EarningInfoCard(),
+                SpacerH(31.h),
                 EarningQuickActionCard(),
+                SpacerH(25.h),
                 Container(
                   alignment: Alignment.centerLeft,
                   margin: EdgeInsets.symmetric(horizontal: 25.w),
-                  child: appText.primaryText(
-                    text: "Payment History",
-                  ),
+                  child: appText.primaryText(text: "Payment History",
+                  fontSize: 12.sp,
+                  fontWeight: FontWeight.w600,
+                  color: Color(0xFF212121B2)),
                 ),
                 for (int i = 0; i < 10; i++) EarningPaymentCard()
               ],

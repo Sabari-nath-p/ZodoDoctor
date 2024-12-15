@@ -5,6 +5,7 @@ import 'package:zodo_doctor/Screens/AddBankScreen/AddBankScreen.dart';
 import 'package:zodo_doctor/Screens/AppointmentDetailsScreen/Views/PatientDetailsCard.dart';
 import 'package:zodo_doctor/Screens/WithdrawScreen/WithdrawScreen.dart';
 import 'package:zodo_doctor/Src/appText.dart';
+import 'package:zodo_doctor/Src/utils.dart';
 
 class EarningQuickActionCard extends StatelessWidget {
   const EarningQuickActionCard({super.key});
@@ -18,7 +19,11 @@ class EarningQuickActionCard extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          appText.primaryText(text: "Quick Action"),
+          appText.primaryText(text: "Quick Action",
+          fontSize: 12.sp,
+          fontWeight: FontWeight.w600,
+          color: Color(0xFF212121B2)),
+          SpacerH(16.h),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
@@ -28,15 +33,35 @@ class EarningQuickActionCard extends StatelessWidget {
                         transition: Transition.downToUp);
                   },
                   child: Container(
-                    child: appText.primaryText(text: "Add Bank Account"),
+                    alignment: Alignment.center,
+                    decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(100),
+                    border: Border.all(color: Color(0xFF79747E))),
+                    height: 44.h,
+                    width: 166.5.w,
+
+                    child: appText.primaryText(text: "Add Bank Account",
+                    fontSize: 12.sp,
+                    fontWeight: FontWeight.w700,
+                    color: Color(0xFF424A53)),
                   )),
+                  SpacerW(10.w),
               InkWell(
                   onTap: () {
                     Get.to(() => Withdrawscreen(),
                         transition: Transition.downToUp);
                   },
                   child: Container(
-                    child: appText.primaryText(text: "Withdraw Now"),
+                    alignment: Alignment.center,
+                    decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(100),
+                    color: Color(0xFF347D73)),
+                    height: 44.h,
+                    width: 166.5.w,
+                    child: appText.primaryText(text: "Withdraw Now",
+                    fontSize: 12.sp,
+                    fontWeight: FontWeight.w700,
+                    color: Color(0xFFEFEFEF)),
                   ))
             ],
           )

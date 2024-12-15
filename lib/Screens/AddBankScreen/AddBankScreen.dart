@@ -28,10 +28,59 @@ class AddBankScreen extends StatelessWidget {
                   bottom: 0,
                   child: SingleChildScrollView(
                     child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        appText.primaryText(text: "Add UPI"),
-                        tBox(hint: "Add UPI"),
-                        appButton.PrimaryButton(name: "Verify")
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            appText.primaryText(text: "Add UPID",
+                            fontSize: 14.sp,
+                            fontWeight: FontWeight.w600,
+                            color: Color(0xFF1B1B1B)),
+                            SpacerH(10.h),
+                            tBox(hint: "Add UPI"),
+                            SpacerH(16.h),
+                            appButton.PrimaryButton(name: "Verify")
+                          ],
+                        ),
+
+                        
+                        Container(
+                          margin: EdgeInsets.all(27),
+                          child: appText.primaryText(text: "OR",
+                              fontSize: 14.sp,
+                              fontWeight: FontWeight.w700,
+                              color: Color(0xFF999999)),
+                        ),
+
+
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            appText.primaryText(text: "Bank account Number",
+                            fontSize: 14.sp,
+                            fontWeight: FontWeight.w600,
+                            color: Color(0xFF1B1B1B)),
+                            SpacerH(10.h),
+                            tBox(),
+                            SpacerH(22.h),
+
+                            appText.primaryText(text: "Verify account Number",
+                            fontSize: 12.sp,
+                            fontWeight: FontWeight.w600,
+                            color: Color(0xFF858585)),
+                            SpacerH(10.h),
+                            tBox(),
+                            SpacerH(22.h),
+
+                            appText.primaryText(text: "IFSC Code",
+                            fontSize: 14.sp,
+                            fontWeight: FontWeight.w600,
+                            color: Color(0xFF1B1B1B)),
+                            SpacerH(10.h),
+                            tBox(),
+                          ],
+                        )
                       ],
                     ),
                   )),
