@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:zodo_doctor/Screens/SlotListingScreen/Views/SlotListingAppBar.dart';
+import 'package:zodo_doctor/Src/appButtons.dart';
+import 'package:zodo_doctor/Src/appText.dart';
 
 class SlotListingScreen extends StatelessWidget {
   const SlotListingScreen({super.key});
@@ -12,14 +15,31 @@ class SlotListingScreen extends StatelessWidget {
         children: [
           SlotListingAppBar(),
           Expanded(
-              child: SingleChildScrollView(
-            child: Column(
-              children: [
-
-                
-              ],
-            ),
-          ))
+              child: Stack(
+            children: [
+              Positioned(
+                  top: 0,
+                  right: 25.w,
+                  left: 25.w,
+                  bottom: 0,
+                  child: SingleChildScrollView(
+                    child: Column(children: [
+                      Container(
+                        margin: EdgeInsets.only(top: 210.h),
+                        child: appText.primaryText(
+                            text: "No time Slot Created",
+                            fontSize: 18.sp,
+                            fontWeight: FontWeight.w600),
+                      )
+                    ]),
+                  )),
+              Positioned(
+                  bottom: 20.h,
+                  right: 25.w,
+                  left: 25.w,
+                  child: appButton.PrimaryButton(name: "Create Slots"))
+            ],
+          )),
         ],
       ),
     );

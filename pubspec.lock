@@ -179,9 +179,11 @@ packages:
   horizontal_week_calendar:
     dependency: "direct main"
     description:
-      path: "/Users/sabarinathp/Downloads/horizontal_week_calendar-0.0.18"
-      relative: false
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "4ba7fce068f34872c7160c25f6e77684d98e79b8"
+      url: "https://github.com/Sabari-nath-p/horizontalCalander.git"
+    source: git
     version: "0.0.18"
   http:
     dependency: transitive
