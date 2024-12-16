@@ -19,10 +19,11 @@ class EarningQuickActionCard extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          appText.primaryText(text: "Quick Action",
-          fontSize: 12.sp,
-          fontWeight: FontWeight.w600,
-          color: Color(0xFF212121B2)),
+          appText.primaryText(
+              text: "Quick Action",
+              fontSize: 12.sp,
+              fontWeight: FontWeight.w600,
+              color: Color(0xFF212121).withOpacity(.7)),
           SpacerH(16.h),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -35,17 +36,17 @@ class EarningQuickActionCard extends StatelessWidget {
                   child: Container(
                     alignment: Alignment.center,
                     decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(100),
-                    border: Border.all(color: Color(0xFF79747E))),
+                        borderRadius: BorderRadius.circular(100),
+                        border: Border.all(color: Color(0xFF79747E))),
                     height: 44.h,
                     width: 166.5.w,
-
-                    child: appText.primaryText(text: "Add Bank Account",
-                    fontSize: 12.sp,
-                    fontWeight: FontWeight.w700,
-                    color: Color(0xFF424A53)),
+                    child: appText.primaryText(
+                        text: "Add Bank Account",
+                        fontSize: 12.sp,
+                        fontWeight: FontWeight.w700,
+                        color: Color(0xFF424A53)),
                   )),
-                  SpacerW(10.w),
+              SpacerW(10.w),
               InkWell(
                   onTap: () {
                     Get.to(() => Withdrawscreen(),
@@ -54,14 +55,15 @@ class EarningQuickActionCard extends StatelessWidget {
                   child: Container(
                     alignment: Alignment.center,
                     decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(100),
-                    color: Color(0xFF347D73)),
+                        borderRadius: BorderRadius.circular(100),
+                        color: Color(0xFF347D73)),
                     height: 44.h,
                     width: 166.5.w,
-                    child: appText.primaryText(text: "Withdraw Now",
-                    fontSize: 12.sp,
-                    fontWeight: FontWeight.w700,
-                    color: Color(0xFFEFEFEF)),
+                    child: appText.primaryText(
+                        text: "Withdraw Now",
+                        fontSize: 12.sp,
+                        fontWeight: FontWeight.w700,
+                        color: Color(0xFFEFEFEF)),
                   ))
             ],
           )

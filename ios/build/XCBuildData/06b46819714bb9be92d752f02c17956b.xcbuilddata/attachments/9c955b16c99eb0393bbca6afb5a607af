@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/flutter_callkit_incoming_yoer-master.dia",
+    "emit-module-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/flutter_callkit_incoming_yoer-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/flutter_callkit_incoming_yoer-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/flutter_callkit_incoming_yoer-master.swiftdeps"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/Call.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/Call~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/CallManager.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallManager~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/CallkitIncomingAppDelegate.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/CallkitIncomingAppDelegate~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/NSUserActivity.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/NSUserActivity~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/StringUtils.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/StringUtils~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/SwiftFlutterCallkitIncomingPlugin.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/SwiftFlutterCallkitIncomingPlugin~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/flutter_callkit_incoming_yoer-2.0.4+3/ios/Classes/WeakArray.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/Objects-normal/x86_64/WeakArray~partial.swiftmodule"
+  }
+}

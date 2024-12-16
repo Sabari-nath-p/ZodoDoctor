@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/flutter_logs/flutter_logs.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_logs.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/flutter_logs/flutter_logs.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_logs-Swift.h",
+      'external-contents': "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_logs.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,41 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_zego_uikit_signaling_pluginVersionString",
+            "_zego_uikit_signaling_pluginVersionNumber"
+          ],
+          "objc_class": [
+            "PodsDummy_zego_uikit_signaling_plugin",
+            "ZegoUikitSignalingPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/zego_uikit_signaling_plugin.framework/zego_uikit_signaling_plugin"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

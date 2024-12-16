@@ -1,0 +1,146 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s25native_device_orientation14SensorListenerCMn",
+            "_$s25native_device_orientation26DisplayOrientationListenerC04lastE033_C18596A7367D09EA3936E3D84F6A12D5LLSSSgvg",
+            "_$s25native_device_orientation17MapArgumentReaderC4bool3keySbSgSS_tFTq",
+            "_$s25native_device_orientation14SensorListenerCAA011OrientationE0AAWP",
+            "_$s25native_device_orientation17MapArgumentReaderCMn",
+            "_$s25native_device_orientation14SensorListenerC15lastOrientation33_DCA58C24A202D71B7A905B9033D31B72LLSSSgvg",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCACycfC",
+            "_$s25native_device_orientation26DisplayOrientationListenerC07receiveE6Change33_C18596A7367D09EA3936E3D84F6A12D5LLyyF",
+            "_$s25native_device_orientation14SensorListenerC5startSo12FlutterErrorCSgyF",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCN",
+            "_$s25native_device_orientation14SensorListenerC8callbackACySSc_tcfCTq",
+            "_$s25native_device_orientation15LANDSCAPE_RIGHTSSSgvp",
+            "_$s25native_device_orientation13PORTRAIT_DOWNSSSgvau",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC6resumeSo12FlutterErrorCSgyF",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctF",
+            "_$s25native_device_orientation17MapArgumentReaderC11stringArray3keySaySSGSgSS_tFTq",
+            "_$s25native_device_orientation26DisplayOrientationListenerCMa",
+            "_$s25native_device_orientation17MapArgumentReaderCfd",
+            "_$s25native_device_orientation26DisplayOrientationListenerC4onceSo12FlutterErrorCSgyFTq",
+            "_$s25native_device_orientation14SensorListenerC4onceSo12FlutterErrorCSgyFTq",
+            "_$s25native_device_orientation13METHOD_CHANELSSvau",
+            "_$s25native_device_orientation11PORTRAIT_UPSSSgvau",
+            "_$s25native_device_orientation14SensorListenerC8callbackACySSc_tcfC",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC5pauseyyF",
+            "_$s25native_device_orientation17MapArgumentReaderCMm",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8listener33_F059CD22EEC235CB15386D01126B997CLLAA0F8Listener_pSgvg",
+            "_$s25native_device_orientation26DisplayOrientationListenerCfd",
+            "_native_device_orientationVersionString",
+            "_$s25native_device_orientation11PORTRAIT_UPSSSgvp",
+            "_$s25native_device_orientation26DisplayOrientationListenerCAA0eF0AAMc",
+            "_$s25native_device_orientation14SensorListenerC15lastOrientation33_DCA58C24A202D71B7A905B9033D31B72LLSSSgvM",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8listener33_F059CD22EEC235CB15386D01126B997CLLAA0F8Listener_pSgvM",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tF",
+            "_$s25native_device_orientation13EVENT_CHANNELSSvp",
+            "_$s25native_device_orientation14SensorListenerCMa",
+            "_$s25native_device_orientation26DisplayOrientationListenerCMm",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s25native_device_orientation7UNKNOWNSSSgvau",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCMn",
+            "_$s25native_device_orientation7UNKNOWNSSSgvp",
+            "_$s25native_device_orientation17MapArgumentReaderCN",
+            "_$s25native_device_orientation17MapArgumentReaderC11stringArray3keySaySSGSgSS_tF",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s25native_device_orientation26DisplayOrientationListenerC4stopyyFTq",
+            "_$s25native_device_orientation26DisplayOrientationListenerCMn",
+            "_$s25native_device_orientation14SensorListenerC4stopyyF",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8listener33_F059CD22EEC235CB15386D01126B997CLLAA0F8Listener_pSgvs",
+            "_$s25native_device_orientation26DisplayOrientationListenerC09getDeviceE033_C18596A7367D09EA3936E3D84F6A12D5LLSSyF",
+            "_$s25native_device_orientation13EVENT_CHANNELSSvau",
+            "_$s25native_device_orientation14SensorListenerC5start33_DCA58C24A202D71B7A905B9033D31B72LL11forCallbackSo12FlutterErrorCSgySSXE_tF",
+            "_$s25native_device_orientation14SensorListenerC5startSo12FlutterErrorCSgyFTq",
+            "_$s25native_device_orientation14SensorListenerCfD",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8register4withySo07FlutterG9Registrar_p_tFZ",
+            "_$s25native_device_orientation26DisplayOrientationListenerC8callbackACySSc_tcfCTq",
+            "_$s25native_device_orientation26DisplayOrientationListenerC04lastE033_C18596A7367D09EA3936E3D84F6A12D5LLSSSgvM",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCMa",
+            "_$s25native_device_orientation14SensorListenerCACycfc",
+            "_$s25native_device_orientation14SensorListenerC8callbackACySSc_tcfc",
+            "_$s25native_device_orientation14SensorListenerCAA011OrientationE0AAMc",
+            "_$s25native_device_orientation26DisplayOrientationListenerCfD",
+            "_$s25native_device_orientation26DisplayOrientationListenerC8callbackACySSc_tcfC",
+            "_$s25native_device_orientation13METHOD_CHANELSSvp",
+            "_$s25native_device_orientation26DisplayOrientationListenerC4onceSo12FlutterErrorCSgyF",
+            "_$s25native_device_orientation26DisplayOrientationListenerCAA0eF0AAWP",
+            "_$s25native_device_orientation14LANDSCAPE_LEFTSSSgvp",
+            "_native_device_orientationVersionNumber",
+            "_$s25native_device_orientation17MapArgumentReaderCMa",
+            "_$s25native_device_orientation14SensorListenerC4onceSo12FlutterErrorCSgyF",
+            "_$s25native_device_orientation17MapArgumentReaderCyACSDySSypGSgcfC",
+            "_$s25native_device_orientation14SensorListenerC15lastOrientation33_DCA58C24A202D71B7A905B9033D31B72LLSSSgvs",
+            "_$s25native_device_orientation14SensorListenerCN",
+            "_$s25native_device_orientation19OrientationListenerTL",
+            "_$s25native_device_orientation14SensorListenerCACycfC",
+            "_$s25native_device_orientation19OrientationListenerMp",
+            "_$s25native_device_orientation17MapArgumentReaderC3int3keySiSgSS_tF",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC8listener33_F059CD22EEC235CB15386D01126B997CLLAA0F8Listener_pSgvpfi",
+            "_$s25native_device_orientation17MapArgumentReaderC4argsSDySSypGSgvpWvd",
+            "_$s25native_device_orientation26DisplayOrientationListenerC04lastE033_C18596A7367D09EA3936E3D84F6A12D5LLSSSgvs",
+            "_$s25native_device_orientation17MapArgumentReaderC6string3keySSSgSS_tFTq",
+            "_$s25native_device_orientation14LANDSCAPE_LEFTSSSgvau",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginC03getF033_F059CD22EEC235CB15386D01126B997CLL9useSensor6resultySb_yypSgctF",
+            "_$s25native_device_orientation26DisplayOrientationListenerC4stopyyF",
+            "_$s25native_device_orientation26DisplayOrientationListenerC04lastE033_C18596A7367D09EA3936E3D84F6A12D5LLSSSgvpfi",
+            "_$s25native_device_orientation17MapArgumentReaderC4argsSDySSypGSgvg",
+            "_$s25native_device_orientation26DisplayOrientationListenerC5startSo12FlutterErrorCSgyF",
+            "_$s25native_device_orientation13PORTRAIT_DOWNSSSgvp",
+            "_$s25native_device_orientation17MapArgumentReaderC4bool3keySbSgSS_tF",
+            "_$s25native_device_orientation17MapArgumentReaderC4argsSDySSypGSgvpMV",
+            "_$s25native_device_orientation14SensorListenerC4stopyyFTq",
+            "_$s25native_device_orientation17MapArgumentReaderC3int3keySiSgSS_tFTq",
+            "_$s25native_device_orientation17MapArgumentReaderCyACSDySSypGSgcfc",
+            "_$s25native_device_orientation17MapArgumentReaderC6string3keySSSgSS_tF",
+            "_$s25native_device_orientation14SensorListenerC15lastOrientation33_DCA58C24A202D71B7A905B9033D31B72LLSSSgvpfi",
+            "_$s25native_device_orientation26DisplayOrientationListenerC5startSo12FlutterErrorCSgyFTq",
+            "_$s25native_device_orientation26DisplayOrientationListenerC8callbackACySSc_tcfc",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCACycfc",
+            "_$s25native_device_orientation26DisplayOrientationListenerCN",
+            "_$s25native_device_orientation29NativeDeviceOrientationPluginCfD",
+            "_$s25native_device_orientation17MapArgumentReaderCyACSDySSypGSgcfCTq",
+            "_$s25native_device_orientation15LANDSCAPE_RIGHTSSSgvau",
+            "_$s25native_device_orientation17MapArgumentReaderCfD"
+          ],
+          "objc_class": [
+            "PodsDummy_native_device_orientation",
+            "_TtC25native_device_orientation14SensorListener",
+            "_TtC25native_device_orientation29NativeDeviceOrientationPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/native_device_orientation.framework/native_device_orientation"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

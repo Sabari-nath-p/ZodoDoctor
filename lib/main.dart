@@ -13,7 +13,8 @@ class ZodoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
-      designSize: const Size(393, 852),
+      minTextAdapt: true,
+      designSize: const Size(395, 852),
       child: GetMaterialApp(
         home: SplashScreen(),
       ),

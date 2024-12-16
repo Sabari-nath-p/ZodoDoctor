@@ -7,6 +7,7 @@ environment:
   sdk: '>=3.4.3 <4.0.0'
 
 dependencies:
+  zego_uikit_prebuilt_call: ^4.16.15
   animate_do: ^3.3.4
   drop_down_list: ^0.0.8
   file_picker: ^8.1.4
@@ -27,7 +28,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true

@@ -7,6 +7,8 @@ import 'package:zodo_doctor/Src/appText.dart';
 Widget tBox(
         {TextEditingController? controller,
         String? hint,
+        String? prefixText,
+        bool? isEnable,
         TextInputType? keyType}) =>
     Container(
       padding: EdgeInsets.symmetric(horizontal: 10.w, vertical: 10.h),
@@ -16,6 +18,7 @@ Widget tBox(
           ),
           borderRadius: BorderRadius.circular(8)),
       child: TextField(
+        controller: controller,
         style: GoogleFonts.poppins(
             fontWeight: FontWeight.w500,
             fontSize: 14.sp,
@@ -23,7 +26,9 @@ Widget tBox(
         keyboardType: keyType,
         textAlignVertical: TextAlignVertical.center,
         textAlign: TextAlign.start,
+        enabled: isEnable,
         decoration: InputDecoration(
+            prefixText: prefixText,
             hintStyle: GoogleFonts.poppins(
                 fontWeight: FontWeight.w500,
                 fontSize: 13.sp,

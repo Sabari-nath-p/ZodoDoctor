@@ -1,0 +1,18 @@
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Data+Compression.swift":
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Data+Compression.o"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Data+Compression.swiftconstvalues"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Data+Compression.d"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Data+Compression.swiftdeps"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Data+Compression.dia"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+WritingDeprecated.swift":
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+WritingDeprecated.o"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+WritingDeprecated.d"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+WritingDeprecated.swiftconstvalues"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+WritingDeprecated.swiftdeps"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+WritingDeprecated.dia"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+ZIP64.swift":
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+ZIP64.d"
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+ZIP64.o"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+ZIP64.swiftdeps"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+ZIP64.dia"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/arm64/Archive+ZIP64.swiftconstvalues"

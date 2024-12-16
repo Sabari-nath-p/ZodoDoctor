@@ -12,6 +12,7 @@ class VerificationScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       body: SafeArea(
           child: Padding(
         padding: EdgeInsets.symmetric(horizontal: 20.w),
@@ -31,7 +32,7 @@ class VerificationScreen extends StatelessWidget {
                   Get.to(() => dashBoardScreen(),
                       transition: Transition.rightToLeft);
                 }),
-            SpacerH(40.h)
+            SpacerH(20.h)
           ],
         ),
       )),

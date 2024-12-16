@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:get/get.dart';
+import 'package:zodo_doctor/Screens/CreateSlotScreen/CreateSlotScreen.dart';
 import 'package:zodo_doctor/Screens/SlotListingScreen/Views/SlotListingAppBar.dart';
 import 'package:zodo_doctor/Src/appButtons.dart';
 import 'package:zodo_doctor/Src/appText.dart';
@@ -37,7 +39,12 @@ class SlotListingScreen extends StatelessWidget {
                   bottom: 20.h,
                   right: 25.w,
                   left: 25.w,
-                  child: appButton.PrimaryButton(name: "Create Slots"))
+                  child: appButton.PrimaryButton(
+                      name: "Create Slots",
+                      onClick: () {
+                        Get.to(() => CreateSlotScreen(),
+                            transition: Transition.rightToLeft);
+                      }))
             ],
           )),
         ],

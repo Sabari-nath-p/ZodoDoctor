@@ -26,33 +26,34 @@ class MyEarningScreen extends StatelessWidget {
               child: SingleChildScrollView(
             child: Column(
               children: [
-                appText.primaryText(text: "Main Balance",
-                fontSize: 16.sp,
-                fontWeight: FontWeight.w600,
-                color: Color(0xFF21212180)),
-
+                appText.primaryText(
+                    text: "Main Balance",
+                    fontSize: 16.sp,
+                    fontWeight: FontWeight.w600,
+                    color: Color(0xFF212121).withOpacity(.5)),
                 SpacerH(2.h),
-
-                appText.primaryText(text: "₹ 2,8754",
-                fontSize: 34.sp,
-                fontWeight: FontWeight.w700,
-                color: Color(0xFF212121)),
-
+                appText.primaryText(
+                    text: "₹ 2,8754",
+                    fontSize: 34.sp,
+                    fontWeight: FontWeight.w700,
+                    color: Color(0xFF212121)),
                 SpacerH(12.h),
-
                 EarningAnalyticsCard(),
+                SpacerH(25.h),
                 EarningBankCard(),
+                SpacerH(12.h),
                 EarningInfoCard(),
-                SpacerH(31.h),
+                SpacerH(25.h),
                 EarningQuickActionCard(),
                 SpacerH(25.h),
                 Container(
                   alignment: Alignment.centerLeft,
                   margin: EdgeInsets.symmetric(horizontal: 25.w),
-                  child: appText.primaryText(text: "Payment History",
-                  fontSize: 12.sp,
-                  fontWeight: FontWeight.w600,
-                  color: Color(0xFF212121B2)),
+                  child: appText.primaryText(
+                      text: "Payment History",
+                      fontSize: 12.sp,
+                      fontWeight: FontWeight.w600,
+                      color: Color(0xFF212121).withOpacity(.7)),
                 ),
                 for (int i = 0; i < 10; i++) EarningPaymentCard()
               ],

@@ -1,0 +1,18 @@
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive.swift":
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive.o"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive.swiftconstvalues"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive.swiftdeps"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive.dia"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive.d"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+Deprecated.swift":
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Deprecated.swiftdeps"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Deprecated.swiftconstvalues"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Deprecated.d"
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Deprecated.o"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Deprecated.dia"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+BackingConfiguration.swift":
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+BackingConfiguration.dia"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+BackingConfiguration.swiftconstvalues"
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+BackingConfiguration.o"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+BackingConfiguration.swiftdeps"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+BackingConfiguration.d"

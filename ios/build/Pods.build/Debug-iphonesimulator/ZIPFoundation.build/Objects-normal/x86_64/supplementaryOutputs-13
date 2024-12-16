@@ -1,0 +1,18 @@
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+Writing.swift":
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Writing.o"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Writing.dia"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Writing.swiftdeps"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Writing.swiftconstvalues"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Writing.d"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+Reading.swift":
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Reading.d"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Reading.swiftdeps"
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Reading.dia"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Reading.swiftconstvalues"
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+Reading.o"
+"/Users/sabarinathp/Works/zodo_doctor/ios/Pods/ZIPFoundation/Sources/ZIPFoundation/Archive+ReadingDeprecated.swift":
+  diagnostics: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+ReadingDeprecated.dia"
+  object: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+ReadingDeprecated.o"
+  const-values: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+ReadingDeprecated.swiftconstvalues"
+  dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+ReadingDeprecated.d"
+  swift-dependencies: "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/ZIPFoundation.build/Objects-normal/x86_64/Archive+ReadingDeprecated.swiftdeps"

@@ -1,0 +1,32 @@
+moduledependenciestarget: \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Modules/module.modulemap \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEventHandler.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressDefines.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressErrorCode.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.1.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.1.sdk/System/Library/Frameworks/AVFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.1.sdk/System/Library/Frameworks/ReplayKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.1.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+AIVoiceChanger.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+AudioEffectPlayer.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+AudioVADClient.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+CopyrightedMusic.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+CustomAudioIO.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+CustomVideoIO.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Device.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+IM.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+MediaDataPublisher.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+MediaPlayer.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Mixer.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Player.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Preprocess.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Publisher.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+RangeAudio.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+RangeScene.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Record.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+ReplayKit.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Room.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+ScreenCapture.h \
+  /Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/XCFrameworkIntermediates/zego_express_engine/ZegoExpressEngine.framework/Headers/ZegoExpressEngine+Utilities.h

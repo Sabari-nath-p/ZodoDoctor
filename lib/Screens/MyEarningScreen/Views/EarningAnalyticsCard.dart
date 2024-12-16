@@ -15,37 +15,41 @@ class EarningAnalyticsCard extends StatelessWidget {
       height: 66.h,
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(8), color: Color(0xffF0F2F7)),
-          child: Row(
+      child: Row(
+        children: [
+          Column(
             children: [
-              Column(
-                children: [
-                  appText.primaryText(text: "Total Earnings",
+              appText.primaryText(
+                  text: "Total Earnings",
                   fontSize: 12.sp,
                   fontWeight: FontWeight.w600,
-                  color: Color(0xFF212121B2)),
-                  SpacerH(8.h),
-                  appText.primaryText(text: "₹ 2,800",
+                  color: Color(0xFF212121).withOpacity(.7)),
+              SpacerH(8.h),
+              appText.primaryText(
+                  text: "₹ 2,800",
                   fontSize: 16.sp,
                   fontWeight: FontWeight.w700,
                   color: Color(0xFF029C5C)),
-                ],
-              ),
-              Spacer(),
-              Column(
-                children: [
-                  appText.primaryText(text: "Last Settlement",
+            ],
+          ),
+          Spacer(),
+          Column(
+            children: [
+              appText.primaryText(
+                  text: "Last Settlement",
                   fontSize: 12.sp,
                   fontWeight: FontWeight.w600,
-                  color: Color(0xFF212121B2)),
-                  SpacerH(8.h),
-                  appText.primaryText(text: "₹ 2,800",
+                  color: Color(0xFF212121).withOpacity(.7)),
+              SpacerH(8.h),
+              appText.primaryText(
+                  text: "₹ 2,800",
                   fontSize: 16.sp,
                   fontWeight: FontWeight.w700,
                   color: Color(0xFF212121)),
-                ],
-              )
             ],
-          ),
+          )
+        ],
+      ),
     );
   }
 }

@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/native_device_orientation-master.dia",
+    "emit-module-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/native_device_orientation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/native_device_orientation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/native_device_orientation-master.swiftdeps"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/native_device_orientation-2.0.3/ios/Classes/DisplayOrientationListener.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/DisplayOrientationListener~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/native_device_orientation-2.0.3/ios/Classes/MapArgumentReader.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/MapArgumentReader~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/native_device_orientation-2.0.3/ios/Classes/NativeDeviceOrientationPlugin.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/NativeDeviceOrientationPlugin~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/native_device_orientation-2.0.3/ios/Classes/OrientationListener.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/OrientationListener~partial.swiftmodule"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/native_device_orientation-2.0.3/ios/Classes/SensorListener.swift" : {
+    "const-values" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.d",
+    "diagnostics" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.bc",
+    "object" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.o",
+    "swift-dependencies" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener.swiftdeps",
+    "swiftmodule" : "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/native_device_orientation.build/Objects-normal/x86_64/SensorListener~partial.swiftmodule"
+  }
+}

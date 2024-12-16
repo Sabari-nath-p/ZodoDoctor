@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:get/get.dart';
 import 'package:icons_plus/icons_plus.dart';
+import 'package:zodo_doctor/Screens/AppointmentDetailsScreen/VideoCallScreen.dart';
 import 'package:zodo_doctor/Screens/AppointmentDetailsScreen/Views/AppointmentDetailsScreenAppbar.dart';
 import 'package:zodo_doctor/Screens/AppointmentDetailsScreen/Views/PatientDetailsCard.dart';
 import 'package:zodo_doctor/Screens/AppointmentDetailsScreen/Views/PatientProfileItem.dart';
@@ -60,7 +62,12 @@ class Appointmentdetailscreen extends StatelessWidget {
                   bottom: 20.h,
                   left: 16.w,
                   right: 16.h,
-                  child: appButton.PrimaryButton(name: "Start Call"))
+                  child: appButton.PrimaryButton(
+                      name: "Start Call",
+                      onClick: () {
+                        print("wokring");
+                        Get.to(() => VideoCallScreen());
+                      }))
             ],
           ))
         ],

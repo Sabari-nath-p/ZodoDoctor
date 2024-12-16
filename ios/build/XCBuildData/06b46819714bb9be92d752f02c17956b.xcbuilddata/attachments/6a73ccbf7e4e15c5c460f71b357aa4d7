@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/flutter_callkit_incoming_yoer/flutter_callkit_incoming_yoer.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/zodo_doctor/build/ios/Debug-iphonesimulator/flutter_callkit_incoming_yoer/flutter_callkit_incoming_yoer.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_callkit_incoming_yoer-Swift.h",
+      'external-contents': "/Users/sabarinathp/Works/zodo_doctor/ios/build/Pods.build/Debug-iphonesimulator/flutter_callkit_incoming_yoer.build/unextended-interface-header.h",
+    }]
+    }]
+}

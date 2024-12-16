@@ -9,6 +9,7 @@ import 'package:zodo_doctor/Screens/Dashbaord/Views/HMUpcommingadpt.dart';
 import 'package:zodo_doctor/Screens/Dashbaord/Views/dbToolCardView.dart';
 import 'package:zodo_doctor/Screens/MyAppointments/MyAppointmentScreen.dart';
 import 'package:zodo_doctor/Screens/MyEarningScreen/MyEarningScreen.dart';
+import 'package:zodo_doctor/Screens/MyProfileScreen/MyProfileScreen.dart';
 import 'package:zodo_doctor/Screens/SlotListingScreen/SlotListingScreen.dart';
 import 'package:zodo_doctor/Screens/Splash/SplashScreen.dart';
 import 'package:zodo_doctor/Src/ImagesList.dart';
@@ -80,10 +81,16 @@ class dashBoardScreen extends StatelessWidget {
                           subtext: "",
                         ),
                       ),
-                      dbToolCardView(
-                        title: "Profile",
-                        image: img.profileIcon,
-                        subtext: "Verified",
+                      InkWell(
+                        onTap: () {
+                          Get.to(() => MyProfileScreen(),
+                              transition: Transition.rightToLeft);
+                        },
+                        child: dbToolCardView(
+                          title: "Profile",
+                          image: img.profileIcon,
+                          subtext: "Verified",
+                        ),
                       ),
                     ],
                   ),

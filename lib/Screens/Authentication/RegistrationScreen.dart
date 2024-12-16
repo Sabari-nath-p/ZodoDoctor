@@ -1,3 +1,4 @@
+import 'package:drop_down_list/model/selected_list_item.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
@@ -7,6 +8,7 @@ import 'package:zodo_doctor/Screens/Authentication/RegistrationScreen2.dart';
 import 'package:zodo_doctor/Screens/Splash/SplashScreen.dart';
 import 'package:zodo_doctor/Src/appButtons.dart';
 import 'package:zodo_doctor/Src/appColor.dart';
+import 'package:zodo_doctor/Src/appDropDown.dart';
 import 'package:zodo_doctor/Src/appText.dart';
 import 'package:zodo_doctor/Src/appTextField.dart';
 import 'package:zodo_doctor/Src/utils.dart';
@@ -82,14 +84,55 @@ class RegistrationScreen extends StatelessWidget {
                               fontSize: 12.sp,
                               fontWeight: FontWeight.w500),
                           SpacerH(10.h),
-                          tBox(hint: "Select your specialisation"),
+                          InkWell(
+                              onTap: () {
+                                appDropDown.primary(
+                                    context: context,
+                                    title: "City",
+                                    dropList: [
+                                      "General Medicin",
+                                      "Gynecology",
+                                      "Psychiatry",
+                                      "Cardiology",
+                                      "Dermatology",
+                                      "Neurology",
+                                      "Radiology",
+                                      "Gastroenterology"
+                                    ]
+                                        .map((value) => SelectedListItem(
+                                            name: value, value: value))
+                                        .toList());
+                              },
+                              child: tBox(
+                                  hint: "Select your specialisation",
+                                  isEnable: false)),
                           SpacerH(16.h),
                           appText.primaryText(
                               text: "Select Current City",
                               fontSize: 12.sp,
                               fontWeight: FontWeight.w500),
                           SpacerH(10.h),
-                          tBox(hint: "Select your select current city"),
+                          InkWell(
+                            onTap: () {
+                              appDropDown.primary(
+                                  context: context,
+                                  title: "City",
+                                  dropList: [
+                                    "Alappuzha",
+                                    "Eranakulam",
+                                    "Thrissur",
+                                    "Kottayam",
+                                    "Kozhikod",
+                                    "Thiruvananthapuram"
+                                  ]
+                                      .map((value) => SelectedListItem(
+                                          name: value, value: value))
+                                      .toList());
+                            },
+                            child: tBox(
+                                hint: "Select your select current city",
+                                isEnable: false),
+                          ),
                           SpacerH(16.h),
                           appText.primaryText(
                               text: "Registration Details ",
